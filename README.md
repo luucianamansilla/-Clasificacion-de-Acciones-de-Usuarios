@@ -1,10 +1,10 @@
 # 🕹️ Sistema de Clasificación de Acciones en Videojuegos
 
-Trabajo práctico correspondiente a la materia ** Procesamiento prendizaje Automático**, dictada en la Tecnicatura en Ciencia de Datos e Inteligencia Artificial.
+Trabajo práctico correspondiente a la materia ** Procesamiento de prendizaje Automático**, dictada en la Tecnicatura en Ciencia de Datos e Inteligencia Artificial.
 
 **Institución**: Instituto Tecnológico Beltrán - Avellaneda.
 **Carrera**: Tecnicatura en Ciencia de Datos e Inteligencia Artificial.
-**Materia**: Procesamiento Aprendizaje Automático.
+**Materia**: Procesamiento de Aprendizaje Automático.
 **Profesora**: Yanina Escudero.
 **Estudiante**: Mansilla Luciana.
 **Año académico**: 2º Año.
